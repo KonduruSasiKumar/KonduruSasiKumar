@@ -37,7 +37,7 @@ focus:
   - CI/CD Pipeline Architecture
   - Security-first Development Practices
   - Infrastructure as Code
-motto: "Automate everything. Secure everything."
+motto: "Always forward -->"
 ```
 
 ---
