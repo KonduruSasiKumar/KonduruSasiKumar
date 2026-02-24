@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <!-- Animated Typing Header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=0969DA&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Hi+%F0%9F%91%8B+I'm+Sasi+Kumar+Konduru;DevSecOps+Engineer+%7C+Cloud+%26+Automation)](https://git.io/typing-svg)
 
-<!-- Animated Wave -->
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63a170d1bd1c3ab2d72e2a3b118d703037cd15/src/header_.png" width="100%" />
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 </div>
 
@@ -37,7 +37,7 @@ focus:
   - CI/CD Pipeline Architecture
   - Security-first Development Practices
   - Infrastructure as Code
-motto: "Always forward -->"
+motto: "Automate everything. Secure everything."
 ```
 
 ---
@@ -47,16 +47,16 @@ motto: "Always forward -->"
 <div align="center">
 
 #### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%237B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
 #### 🔄 CI/CD & DevOps
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
-![JFrog Artifactory](https://img.shields.io/badge/Artifactory-%2341BF47.svg?style=for-the-badge&logo=jfrog&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![JFrog](https://img.shields.io/badge/Artifactory-%2341BF47.svg?style=for-the-badge&logo=jfrog&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnubash&logoColor=white)
 
 #### 🔒 Security & Quality
 ![SonarQube](https://img.shields.io/badge/SonarQube-%234E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white)
@@ -82,8 +82,8 @@ motto: "Always forward -->"
 
 <div align="center">
 
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KonduruSasiKumar&theme=default&hide_border=true&ring=0969DA&fire=DD6B20&currStreakLabel=0969DA" alt="GitHub Streak" />
+<!-- Streak Stats (using demolab - herokuapp is deprecated) -->
+<img src="https://streak-stats.demolab.com/?user=KonduruSasiKumar&theme=default&hide_border=true&ring=0969DA&fire=DD6B20&currStreakLabel=0969DA" alt="GitHub Streak" />
 
 </div>
 
@@ -99,6 +99,16 @@ motto: "Always forward -->"
 
 ---
 
+### 📈 Activity Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KonduruSasiKumar&theme=minimal&hide_border=true&color=0969DA&line=0969DA&point=DD6B20)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
 ### 🐍 Contribution Snake
 
 <div align="center">
@@ -108,16 +118,6 @@ motto: "Always forward -->"
 </div>
 
 > 💡 *To enable the snake animation, add [this GitHub Action workflow](https://github.com/Platane/snk) to your profile repo.*
-
----
-
-### 📈 Activity Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KonduruSasiKumar&theme=minimal&hide_border=true&color=0969DA&line=0969DA&point=DD6B20)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 
