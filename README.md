@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ```yaml
 name: Sasi Kumar Konduru
 role: DevSecOps Engineer
-location: 🌍
+location: Chicago, USA
 focus:
   - Cloud Infrastructure & Automation
   - CI/CD Pipeline Architecture
